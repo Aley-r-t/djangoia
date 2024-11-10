@@ -14,7 +14,7 @@ Este es un proyecto de aplicación web Django en desarrollo, configurado para la
 ### Clonar el Repositorio
 Clone el repositorio desde GitHub usando el siguiente comando:
 ```sh
-$ git clone <repository_url>
+$ git clone https://github.com/Aley-r-t/djangoia
 ```
 
 ### Configuración del Entorno Virtual
