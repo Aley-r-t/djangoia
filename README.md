@@ -4,7 +4,7 @@
 Este es un proyecto de aplicación web Django en desarrollo, configurado para la integración CI/CD con Jenkins. El objetivo de este proyecto es crear un flujo de trabajo de integración continua y despliegue continuo (CI/CD) que automatice las pruebas y el despliegue de la aplicación Django. Este proyecto se encuentra actualmente en fase de desarrollo, y se está mejorando continuamente para implementar nuevas características y optimizar su funcionalidad.
 
 ## Requisitos
-- **Python 3.x**: El proyecto está desarrollado usando Python 3. Asegúrese de que esté instalado en su máquina local.
+- **Python 3.12.3**: El proyecto está desarrollado usando Python 3. Asegúrese de que esté instalado en su máquina local.
 - **Entorno Virtual**: `.venv` o **Conda** (recomendado para usuarios de Windows).
 - **Jenkins**: Jenkins se utiliza para crear un pipeline de CI/CD para el proyecto. Asegúrese de que Jenkins esté instalado y configurado correctamente.
 - **Git**: El proyecto requiere Git para el control de versiones.
